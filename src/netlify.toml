@@ -1,0 +1,16 @@
+[[redirects]]
+  from = "/links"
+  to = "https://t.me/+3CqRmaAHDj5lOTE0"
+  status = 302
+  force = true
+  query = {path = ":path"}
+[[redirects]]
+  from = "/tg"
+  to = "https://t.me/+3WJX7dt-ov85ZDhk"
+  status = 302
+  force = true
+[[redirects]]
+  from = "/yt"
+  to = "https://youtube.com/@aliir74"
+  status = 302
+  force = true
